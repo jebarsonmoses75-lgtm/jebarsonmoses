@@ -37,6 +37,7 @@ I enjoy building practical projects and learning new technologies through hands-
 ### 🛒 My Shop — E-Commerce Website
 
 A responsive e-commerce-style website built using HTML, CSS and JavaScript.
+**Tech Used:** HTML • CSS • JavaScript • LocalStorage
 
 **Features:**
 - Product Search
@@ -56,6 +57,7 @@ A responsive e-commerce-style website built using HTML, CSS and JavaScript.
 ### 📊 Marketing Campaign Performance Dashboard
 
 An interactive Power BI dashboard for analyzing marketing campaign performance.
+**Tech Used:** Power BI • Power Query • DAX • Data Visualization
 
 **Analyzes:**
 - Campaign Performance
