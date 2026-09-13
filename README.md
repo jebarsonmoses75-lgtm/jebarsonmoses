@@ -5,9 +5,10 @@
 
 Welcome to my GitHub profile! 👋
 
-I enjoy building practical web applications, dashboards, and learning new technologies through hands-on projects.
-
 I'm a Computer Science and Engineering student interested in **Full Stack Development, Web Development, and Data Analytics**.
+
+
+I enjoy building practical web applications, dashboards, and learning new technologies through hands-on projects.
 
 ---
 
