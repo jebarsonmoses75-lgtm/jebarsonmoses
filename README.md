@@ -1,12 +1,13 @@
-# 👋 Hi, I'm Jebarson Moses S
-
 ![Profile Views](https://komarev.com/ghpvc/?username=jebarsonmoses&color=blue)
+# 👋 Hi, I'm Jebarson Moses S
 
 ### 💻 B.E. Computer Science & Engineering Student | Full Stack Developer
 
-I'm a Computer Science and Engineering student interested in **Full Stack Development, Web Development, and Data Analytics**.
+Welcome to my GitHub profile! 👋
 
-I enjoy building practical projects and learning new technologies through hands-on development.
+I enjoy building practical web applications, dashboards, and learning new technologies through hands-on projects.
+
+I'm a Computer Science and Engineering student interested in **Full Stack Development, Web Development, and Data Analytics**.
 
 ---
 
