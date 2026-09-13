@@ -32,34 +32,56 @@ I enjoy building practical projects and learning new technologies through hands-
 
 ## 🚀 Featured Projects
 
-### 🛒 My Shop
-A responsive e-commerce-style website built with HTML, CSS and JavaScript.
+### 🛒 My Shop — E-Commerce Website
 
-**Features:** Search • Category Filters • Shopping Cart • Wishlist • Product Details • Checkout UI
+A responsive e-commerce-style website built using HTML, CSS and JavaScript.
+
+**Features:**
+- Product Search
+- Category Filtering
+- Shopping Cart
+- Wishlist
+- Product Details
+- Checkout UI
+- Local Storage
+- Responsive Design
+
 
 🔗 **[View My Shop Repository]([YOUR-MY-SHOP-REPOSITORY-LINK](https://jebarsonmoses75-lgtm.github.io/MyShop/))**
 
 ---
 
 ### 📊 Marketing Campaign Performance Dashboard
-A Power BI dashboard for analyzing marketing campaigns, channels, ROI, conversion rate, customer engagement and acquisition costs.
+
+An interactive Power BI dashboard for analyzing marketing campaign performance.
+
+**Analyzes:**
+- Campaign Performance
+- Marketing Channels
+- ROI
+- Conversion Rate
+- Customer Engagement
+- Acquisition Cost
 
 🔗 **[View Power BI Project Repository]([YOUR-POWER-BI-REPOSITORY-LINK](https://github.com/jebarsonmoses75-lgtm/Marketing-Campaign-PowerBI.git))**
 
 ---
-
 ## 🎯 Currently Learning
 
-- Full Stack Development
 - JavaScript
+- Full Stack Development
 - Backend Development
+- REST APIs
+- Database Management
 - Data Analytics
 
 ---
 
 ## 📫 Connect With Me
 
-💼 **LinkedIn:** Add your LinkedIn profile link here
+💼 **LinkedIn:** [My LinkedIn Profile]([YOUR-LINKEDIN-LINK](https://www.linkedin.com/in/jebarson-moses-s-4491b33b6/))
+
+🐙 **GitHub:** [My GitHub Profile](https://github.com/jebarsonmoses75-lgtm))
 
 ---
 
