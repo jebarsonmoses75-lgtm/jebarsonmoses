@@ -79,7 +79,7 @@ An interactive Power BI dashboard for analyzing marketing campaign performance.
 
 ## 📫 Connect With Me
 
-💼 **LinkedIn:** [My LinkedIn Profile]([YOUR-LINKEDIN-LINK](https://www.linkedin.com/in/jebarson-moses-s-4491b33b6/))
+💼 **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/jebarson-moses-s-4491b33b6/)
 
 🐙 **GitHub:** [My GitHub Profile](https://github.com/jebarsonmoses75-lgtm))
 
