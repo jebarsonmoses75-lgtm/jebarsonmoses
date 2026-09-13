@@ -92,6 +92,20 @@ I am interested in learning, building useful applications, and continuously impr
 - 📈 Data analysis and visualization projects
 - 💻 Beginner-friendly full stack applications
 
+## 💻 Tech Stack
+
+**Frontend:**  
+HTML • CSS • JavaScript
+
+**Programming:**  
+Python • C
+
+**Data & Analytics:**  
+Power BI • Power Query • DAX
+
+**Tools:**  
+Git • GitHub • VS Code
+
 ## 📫 Connect With Me
 
 💼 **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/jebarson-moses-s-4491b33b6/)
