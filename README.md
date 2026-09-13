@@ -82,6 +82,14 @@ I am looking for opportunities to grow as a **Full Stack Developer** and gain pr
 
 I am interested in learning, building useful applications, and continuously improving my technical skills.
 
+## 💡 What I Build
+
+- 🌐 Responsive websites using HTML, CSS and JavaScript
+- 🛒 E-commerce-style web applications
+- 📊 Interactive Power BI dashboards
+- 📈 Data analysis and visualization projects
+- 💻 Beginner-friendly full stack applications
+
 ## 📫 Connect With Me
 
 💼 **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/jebarson-moses-s-4491b33b6/)
