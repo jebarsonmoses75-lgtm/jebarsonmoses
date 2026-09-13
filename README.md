@@ -81,6 +81,14 @@ An interactive Power BI dashboard for analyzing marketing campaign performance.
 - Database Management
 - Data Analytics
 
+## 📚 Learning Journey
+
+- 🎓 Pursuing B.E. Computer Science & Engineering
+- 💻 Completed Full Stack Development course
+- 🌐 Building frontend web projects
+- 📊 Learning Power BI and Data Analytics
+- 🚀 Developing projects to gain practical experience
+
 ---
 ## 🎯 Career Goal
 
