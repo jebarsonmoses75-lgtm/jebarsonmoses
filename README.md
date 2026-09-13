@@ -76,12 +76,17 @@ An interactive Power BI dashboard for analyzing marketing campaign performance.
 - Data Analytics
 
 ---
+## 🎯 Career Goal
+
+I am looking for opportunities to grow as a **Full Stack Developer** and gain practical experience by working on real-world projects.
+
+I am interested in learning, building useful applications, and continuously improving my technical skills.
 
 ## 📫 Connect With Me
 
 💼 **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/jebarson-moses-s-4491b33b6/)
 
-🐙 **GitHub:** [My GitHub Profile](https://github.com/jebarsonmoses75-lgtm))
+🐙 **GitHub:** [My GitHub Profile](https://github.com/jebarsonmoses75-lgtm)
 
 ---
 
