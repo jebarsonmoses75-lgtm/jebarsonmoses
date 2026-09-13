@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Jebarson Moses S
 
+![Profile Views](https://komarev.com/ghpvc/?username=jebarsonmoses&color=blue)
+
 ### 💻 B.E. Computer Science & Engineering Student | Full Stack Developer
 
 I'm a Computer Science and Engineering student interested in **Full Stack Development, Web Development, and Data Analytics**.
